@@ -1,0 +1,1 @@
+Assignments from the The Complete GANs Bootcamp: Theory and Applications Udemy Course 
